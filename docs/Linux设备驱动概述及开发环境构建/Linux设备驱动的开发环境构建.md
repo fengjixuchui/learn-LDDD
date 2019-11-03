@@ -3,8 +3,16 @@
 ## PC上的 Linux 环境
 
 * VMware
-* ubuntu-14.04.6-desktop-amd64.discussion
+* ubuntu-14.04.6-desktop-amd64.iso
 
+
+![20191103_163739_55](image/20191103_163739_55.png)
+
+![20191103_164129_57](image/20191103_164129_57.png)
+
+![20191103_172118_38](image/20191103_172118_38.png)
+
+* 原先的.config配置文件不适配VMware环境，少了非常多驱动。磁盘都无法识别
 
 ## QEMU实验平台
 
