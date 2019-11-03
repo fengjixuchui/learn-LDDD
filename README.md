@@ -59,6 +59,7 @@ Something I hope you know before go into the coding~
 
 * <https://github.com/gatieme/LDD-LinuxDeviceDrivers>
 * <https://mp.weixin.qq.com/s/fuPgpugqJeezBJkn4JfKsQ>
+* <http://www.embstu.xyz/2018/07/09/car-build-devlop-env/>
 * 《冯国进-Linux驱动程序开发实例(机械工业出版社)》
 * 《ARM嵌入式Linux设备驱动实例开发》
 * 《嵌入式Linux设备驱动开发详解》
